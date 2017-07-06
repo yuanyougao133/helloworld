@@ -7,7 +7,7 @@ public class TestA {
 
 		System.out.println("liuju");
 		
-		System.out.println("testyuanyougao4");
+		System.out.println("testyuanyougao5");
 	}
 
 }
