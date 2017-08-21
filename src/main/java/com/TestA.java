@@ -10,6 +10,8 @@ public class TestA {
 		System.out.println("testyuanyougao51++++");
 		
 		System.out.println("abcd");
+		
+		System.out.println("ΑυΎΥ");
 	}
 	
 
