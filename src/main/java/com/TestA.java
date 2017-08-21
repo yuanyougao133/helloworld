@@ -11,7 +11,7 @@ public class TestA {
 		
 		System.out.println("abcd");
 		
-		System.out.println("ΑυΎΥ1");
+		System.out.println("xiugai1");
 	}
 	
 
