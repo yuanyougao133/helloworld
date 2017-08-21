@@ -11,7 +11,7 @@ public class TestA {
 		
 		System.out.println("abcd");
 		
-		System.out.println("증앞");
+		System.out.println("증앞1");
 	}
 	
 
